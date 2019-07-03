@@ -1,0 +1,54 @@
+
+@media (max-width: 575.98px) {
+    .button-wrapper> .btn-primary{
+        display: block;
+        width: 70%;
+        margin: 0 auto !important;
+    }
+
+    .button-wrapper > .btn-outline{
+        margin-top: 20px !important;
+    }
+
+    .four-letter{
+        display: none !important;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .four-letter{
+        width: 90%;
+    }
+
+    .left-margin-offert{
+        margin-left: 0;
+    }
+
+    div.who-offert{
+        height: auto;
+    }
+
+    div.card-offert.sec{
+        margin-bottom: 40px;
+    }
+
+    div.footer{
+        margin:0;
+    }
+
+    .header-text>h1{
+        margin-bottom: 40px;
+    }
+
+    .header-text>h1{
+        width: 100%;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .navbar.sticky-top{
+        display: none;
+    }
+}
+
+@media (max-width: 1199.98px) {  }
